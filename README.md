@@ -1,6 +1,6 @@
 # TrailBlazer
 
-Using the concept of computer graphics mainly GLUT library in C++ to visualize the Dijkstara’s Algorithm and show step by step calculation of minimum distances between different cities.\
+Using the concept of computer graphics mainly GLUT library in C++ to visualize the Dijkstara’s Algorithm and show step by step calculation of minimum distances between different cities.
 
 ![image](https://user-images.githubusercontent.com/70579831/176185507-4bd49f4d-44fb-4322-a91b-83c670fbd0be.png)
 
